@@ -47,7 +47,7 @@ Material_management/
 
 1. **克隆项目**：
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/yuzhouchangwan814/Material_manag
 cd Material_management
 
 ```
